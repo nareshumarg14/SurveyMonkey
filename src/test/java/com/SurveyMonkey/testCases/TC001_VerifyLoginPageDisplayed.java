@@ -29,5 +29,6 @@ public class TC001_VerifyLoginPageDisplayed extends BaseClass {
 		Assert.assertEquals(pageTitle, "SurveyMonkey - Log in","Survey Monkey Login page is not displayed");
 
 		logger.info("Survey Monkey Login page is displayed");
+		logger.info("Executed successfully");
 	}
 }
