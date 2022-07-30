@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 83.486 s <<< FAILURE! - in TestSuite
+com.SurveyMonkey.testCases.TC003_UserLogInTest.verifyUserLoginTest  Time elapsed: 53.55 s  <<< FAILURE!
+org.openqa.selenium.JavascriptException: 
+javascript error: document.getElementByID is not a function
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-803K56V', ip: '192.168.0.119', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\Users\nares\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d624934886bdad5b03e308a89ae43a58
+	at com.SurveyMonkey.testCases.TC003_UserLogInTest.verifyUserLoginTest(TC003_UserLogInTest.java:34)
+

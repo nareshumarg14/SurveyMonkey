@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Suite]">
+  <parameter name="browsername" value="chrome"/>
+  <listeners>
+    <listener class-name="com.SurveyMonkey.utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="TC003_UserLogInTest(failed)">
+    <classes>
+      <class name="com.SurveyMonkey.testCases.TC003_UserLogInTest">
+        <methods>
+          <include name="verifyUserLoginTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.SurveyMonkey.testCases.TC003_UserLogInTest -->
+    </classes>
+  </test> <!-- TC003_UserLogInTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

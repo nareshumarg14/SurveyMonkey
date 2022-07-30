@@ -1,0 +1,107 @@
+[INFO ] 23-07-2022 12:36:22.237 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 23-07-2022 12:36:29.886 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 23-07-2022 12:36:31.010 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 23-07-2022 12:41:42.299 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 23-07-2022 12:41:42.960 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 23-07-2022 12:41:43.907 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 23-07-2022 12:41:50.726 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 23-07-2022 12:42:00.670 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 23-07-2022 12:42:01.525 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 23-07-2022 12:42:06.689 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 23-07-2022 12:43:00.296 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:09:26.221 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:09:26.958 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 10:09:27.852 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:09:32.379 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:09:39.035 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 10:09:39.955 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:09:44.290 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:10:41.559 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:28:46.967 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:28:47.923 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 10:28:48.835 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:28:53.865 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:28:58.613 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:29:03.354 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:29:57.941 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:30:58.276 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:30:59.733 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 10:31:01.503 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:31:09.883 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:31:16.447 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:33:16.798 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:33:37.768 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:40:51.200 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:40:51.927 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 10:40:52.872 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:40:57.372 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:41:04.669 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 10:41:05.423 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:41:09.875 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:42:03.459 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:44:27.893 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:44:28.742 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 10:44:29.720 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:44:34.266 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:44:42.092 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 10:44:43.065 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 10:44:47.569 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 10:45:44.781 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:01:23.703 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:01:25.815 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:01:25.847 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:01:27.646 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:01:32.594 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:01:38.062 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:01:38.915 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:01:43.423 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:02:36.722 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:07:11.788 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:07:14.271 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:07:14.273 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:07:15.271 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:07:20.230 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:07:30.180 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:07:30.181 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 11:07:31.110 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:07:35.565 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:08:40.719 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:13:25.590 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:13:27.897 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:13:27.899 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:13:28.987 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:13:33.655 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:13:40.563 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:13:40.563 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 11:13:41.460 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:13:45.722 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:14:40.305 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:17:12.448 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:17:15.336 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:17:15.342 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:17:16.129 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:17:20.996 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:17:29.302 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:17:30.260 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:17:35.038 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:18:31.003 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:21:28.531 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:21:31.230 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:21:31.236 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:21:32.205 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:21:36.869 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:21:45.354 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:21:45.354 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 11:21:46.236 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:21:50.789 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:22:47.537 TC003_UserLogInTest - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:25:11.571 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:25:14.559 TC002_VerifySignUpFreeLinkDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:25:14.562 TC002_VerifySignUpFreeLinkDisplayed - Sign Up Free link is displayed
+[INFO ] 30-07-2022 11:25:15.531 TC002_VerifySignUpFreeLinkDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:25:20.819 TC001_VerifyLoginPageDisplayed - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:25:27.588 TC001_VerifyLoginPageDisplayed - Screenshot captured successfully
+[INFO ] 30-07-2022 11:25:27.589 TC001_VerifyLoginPageDisplayed - Survey Monkey Login page is displayed
+[INFO ] 30-07-2022 11:25:28.418 TC001_VerifyLoginPageDisplayed - Survey Monkey application is closed
+[INFO ] 30-07-2022 11:25:33.011 TC003_UserLogInTest - Survey Monkey application home page is displayed
+[INFO ] 30-07-2022 11:26:27.509 TC003_UserLogInTest - Survey Monkey application is closed
